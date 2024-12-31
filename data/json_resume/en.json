@@ -1,0 +1,117 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "jeremiasbots",
+    "label": "Programador",
+    "image": "https://avatars.githubusercontent.com/u/98851793?v=4",
+    "email": "devepservices@gmail.com",
+    "summary": "Programo desde 2020/2021, sé inglés en nivel B1 y este es mi portafolio en español. Trabajo como freelancer, estoy disponible para cualquier trabajo que necesites; hago bots de Discord, servicios backend, páginas web estáticas, transpiladores, motores de JavaScript, y más cosas (pregúntame a mi Discord si no sabes si hago lo que necesitas). Sé C (básico), Go (avanzado), Rust (básico), TypeScript (avanzado), JavaScript (avanzado), Python (intermedio), GDScript (intermedio), Swift (básico), C# (intermedio), JSX y TSX (intermedio).",
+    "location": {
+      "city": "jeremiasbots"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "url": "https://github.com/jeremiasbots"
+      },
+      {
+        "network": "GitHub",
+        "username": "larGo",
+        "url": "https://github.com/jeremiasbots/larGo"
+      },
+      {
+        "network": "GitHub",
+        "username": "currencyRatesLib",
+        "url": "https://github.com/jeremiasbots/currencyRatesLib"
+      },
+      {
+        "network": "GitHub",
+        "username": "esbuild-tsc",
+        "url": "https://github.com/jeremiasbots/esbuild-tsc"
+      },
+      {
+        "network": "Discord",
+        "url": "https://discord.gg/N3kGxGTW7p"
+      },
+      {
+        "network": "Youtube",
+        "url": "https://www.youtube.com/@aacdOPINION"
+      }
+    ]
+  },
+  "volunteer": [
+    {
+      "organization": "Bunland",
+      "position": "Contribuidor",
+      "url": "https://github.com/Bunland",
+      "startDate": "2023-11-10",
+      "summary": "Creador de proyectos como larGo o contribuidor importante de @bunland/lauri y @bunland/fs. Trabajamos para crear un mejor ecosistema de JavaScript y acercar a los programadores a lenguajes de bajo nivel (compiladores, transpiladores, etcétera):"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Desarrollo de backend",
+      "level": "Avanzado",
+      "keywords": ["Javascript", "Typescript", "Go", "Python"]
+    },
+    {
+      "name": "Desarrollo de motores, transpiladores y analizadores",
+      "level": "Intermedio",
+      "keywords": ["Go", "Rust", "C", "AST", "JavaScriptCore", "JSC"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Hablante nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Nivel B1"
+    },
+    {
+      "language": "Japonés",
+      "fluency": "Nivel básico (solo katakana y hiragana)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Política",
+      "keywords": ["Geopolítica", "Partidos"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "LarGo",
+      "description": "Un motor de JavaScript experimental (por ahora) para interactuar con Go",
+      "highlights": [
+        "Usa Go (Golang) y está hecho en CGO",
+        "Fue hecho sólo con documentación de JSC y se ha actualizado el proyecto cada año",
+        "Tiene soporte para TypeScript"
+      ],
+      "keywords": [
+        "Javascript",
+        "Typescript",
+        "Go",
+        "JSC",
+        "JavaScriptCore",
+        "Golang",
+        "C",
+        "CGO",
+        "CGo"
+      ],
+      "startDate": "2023-11-10",
+      "roles": [
+        "Principal contribuidor",
+        "Adaptación y ampliación del proyecto de C"
+      ],
+      "type": "engine",
+      "url": "https://github.com/Bunland/larGo"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
